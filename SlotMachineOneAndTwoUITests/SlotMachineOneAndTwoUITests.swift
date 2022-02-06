@@ -2,7 +2,7 @@
 //  SlotMachineOneAndTwoUITests.swift
 //  SlotMachineOneAndTwoUITests
 //
-//  Created by Sorena Sorena on 2022-02-05.
+//  Created by Ali on 2022-02-05.
 //
 
 import XCTest
